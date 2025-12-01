@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @zahra-alishah
+- 👋 Hi there!
+
+My name is Zahra, and I'm a third-year student of EE at Shatif university of technology interested in QML.
+  
 - 👀 I’m interested in programming..
 - 🌱 I’m currently learning pennylane.
 - 💞️ I’m looking to collaborate on real QML projects.
