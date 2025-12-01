@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zahra-alishah
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning pennylane
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programming..
+- 🌱 I’m currently learning pennylane.
+- 💞️ I’m looking to collaborate on real QML projects.
 - 📫 How to reach me zhraalyshah6@gmail.com
 
 <!---
